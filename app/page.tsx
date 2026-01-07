@@ -7,4 +7,4 @@ export default function Home() {
       <Image src="https://masti-uploads.s3.ap-south-1.amazonaws.com/uploads/pic.jpeg" height={200} width={200} alt="pic"/>
     </div>
   );
-}
+} 
